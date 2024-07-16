@@ -1,24 +1,11 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: sans-serif;
-}
-
-html,body{
-    height: 100%;
-    width: 100%;
-    background: #3498db;
-}
-
 nav{
-    padding: 10px 30px;
+    padding: 20px 70px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #004274;
+    background: #ac5d29;
     position: relative;
-    height: 70px;
+    height: 100px;
 }
 
 .logo{
@@ -27,7 +14,7 @@ nav{
 
 nav ul{
     display: flex;
-    gap: 30px;
+    gap: 40px;
     align-items: center;
 }
 
@@ -37,6 +24,8 @@ nav ul li{
 
 nav ul li a{
     text-decoration: none;
+    font-size: 20px;
+    
     color: #fff;
 }
 
@@ -57,7 +46,7 @@ nav ul li a{
         right: 0;
         flex-direction: column;
         text-align: center;
-        background: #004274;
+        background: #226096;
         gap: 0;
         overflow: hidden;
     }
@@ -72,3 +61,6 @@ nav ul li a{
         transition: all 0.5s;
     }
 }
+
+
+
