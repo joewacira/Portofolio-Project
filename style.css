@@ -10,8 +10,9 @@
 
 
 body{
-    background-image: url("background.jpg");
-    background-color: #082422;
+    background-image: url("backgroundmain.jpg");
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode: darken;
     display: flex;
     flex-direction: column;
     justify-content: center;
