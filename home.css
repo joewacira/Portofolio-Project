@@ -198,12 +198,12 @@ nav ul li a{
 
 .container1 .form .input-box{
     width: 50%;
-    margin-top: 20px;
+    margin-top: 10px;
     padding: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 10px;
+    border-radius: 20px;
 
     
 
@@ -249,3 +249,5 @@ nav ul li a{
 .form button:hover{
     background-color: #51eb6b;
 }
+
+.form 
