@@ -160,7 +160,7 @@ const priceBase = [
         long: 'From 10 м. to 12 м',
         volume: 'From 15 to 20 cubic meters',
         capacity: 'From 10T to 15T.',
-        price: 'Ksh.600.00./км./км',
+        price: 'Ksh.600.00./км',
     },
     {   tons: 20,
         src: '20tons.png',
