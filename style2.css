@@ -105,7 +105,6 @@ body{
 }
 
 
-
 .container.active .sign-in{
     transform: translateX(100%);
 }
